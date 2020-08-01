@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VocabsApps</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="eng_hint_word">Word</string>
+    <string name="ind_hint_word">Arti kata</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
